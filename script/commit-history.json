@@ -57,17 +57,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "b528b03dd28f78f0c07c0204286619176d2bc6ad",
     "author": "Leonardo Koller",
     "commit": {
       "date": "2025-09-04T23:55:14.000Z",
       "message": "se añadio la verificacion de un numero invalido",
-      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/b528b03dd28f78f0c07c0204286619176d2bc6ad"
     },
     "stats": {
       "total": 8,
       "additions": 7,
       "deletions": 1,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-04T23:58:24.000Z",
+      "message": "se añadio la palabra fizz al haber un divizor de 3",
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
       "date": "2025-09-04"
     },
     "coverage": 100,
