@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "50b59720f492ef41406fa702cf40f0492539116b",
     "author": "Leonardo Koller",
     "commit": {
       "date": "2025-09-04T23:17:14.000Z",
       "message": "se muestra la lista del numero ingresado",
-      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/50b59720f492ef41406fa702cf40f0492539116b"
     },
     "stats": {
       "total": 27,
       "additions": 12,
       "deletions": 15,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-04T23:17:54.000Z",
+      "message": "se añadio la funcion al index.html",
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 1,
+      "deletions": 1,
       "date": "2025-09-04"
     },
     "coverage": 100,
