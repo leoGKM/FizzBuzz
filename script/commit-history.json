@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "170fa704bf10d5949cead943a2a9a0a0eca3feaa",
     "author": "Leonardo Koller",
     "commit": {
       "date": "2025-09-04T23:07:56.000Z",
       "message": "se cambio la interfaz en el index.html",
-      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/170fa704bf10d5949cead943a2a9a0a0eca3feaa"
     },
     "stats": {
       "total": 35,
       "additions": 19,
       "deletions": 16,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-04T23:17:14.000Z",
+      "message": "se muestra la lista del numero ingresado",
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 27,
+      "additions": 12,
+      "deletions": 15,
       "date": "2025-09-04"
     },
     "coverage": 100,
