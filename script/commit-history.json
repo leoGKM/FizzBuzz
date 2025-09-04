@@ -38,16 +38,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "a28fc6715bcb7dffec9bc3d12410de64d7642f40",
     "author": "Leonardo Koller",
     "commit": {
       "date": "2025-09-04T23:17:54.000Z",
       "message": "se añadio la funcion al index.html",
-      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/a28fc6715bcb7dffec9bc3d12410de64d7642f40"
     },
     "stats": {
       "total": 2,
       "additions": 1,
+      "deletions": 1,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-04T23:55:14.000Z",
+      "message": "se añadio la verificacion de un numero invalido",
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
       "deletions": 1,
       "date": "2025-09-04"
     },
