@@ -76,18 +76,37 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "e7c1afd116bbe51917dea77913ec5445d7297552",
     "author": "Leonardo Koller",
     "commit": {
       "date": "2025-09-04T23:58:24.000Z",
       "message": "se añadio la palabra fizz al haber un divizor de 3",
-      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/e7c1afd116bbe51917dea77913ec5445d7297552"
     },
     "stats": {
       "total": 9,
       "additions": 7,
       "deletions": 2,
       "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Leonardo Koller",
+    "commit": {
+      "date": "2025-09-05T00:01:25.000Z",
+      "message": "se añadio la palabra fizzbuzz al haber un divizor de 5 y 3",
+      "url": "https://github.com/leoGKM/FizzBuzz/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 6,
+      "deletions": 5,
+      "date": "2025-09-05"
     },
     "coverage": 100,
     "test_count": 1,
